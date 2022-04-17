@@ -1,0 +1,10 @@
+/events/node_modules
+/events/build
+
+/DiplomaApp/node_modules
+/DiplomaApp/coverage
+/DiplomaApp/build
+
+/TodoApp/node_modules
+/TodoApp/coverage
+/TodoApp/build
